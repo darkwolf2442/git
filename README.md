@@ -50,7 +50,9 @@ git diff
 
 Da bi se kreirao novi projekat moramo kliknuti na new repository (ili ako zelimo da ucitamo vec postojeci kliknemo import repository), izabrati ime I opis projekta, odluciti da li ce biti private ili public. 
 
-![image](https://user-images.githubusercontent.com/119406841/204519925-f68aebc3-9a28-4dca-8d1f-d7fefe112b86.png)
+![image](https://user-images.githubusercontent.com/119406841/204519925-f68aebc3-9a28-4dca-8d1f-d7fefe112b86.png) 
+![image](https://user-images.githubusercontent.com/119406841/204520090-440c4b7e-ee00-479c-9a8d-d44de4e0ee2a.png)
+
 
 
 
