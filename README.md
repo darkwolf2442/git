@@ -27,3 +27,5 @@ Github je sajt koji koristi git kako bi omogucio da ljudi postavljaju projekte ,
 •	Git reset vraca skladiste na stanje iz proslosti
 
 •	Git diff prikazuje sve razlike izmedji sacuvanog fajla I onih koji nisu jos prilozeni
+
+# Kreiranje , grananje, spajanje
