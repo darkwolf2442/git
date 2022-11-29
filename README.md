@@ -53,6 +53,23 @@ Da bi se kreirao novi projekat moramo kliknuti na new repository (ili ako zelimo
 ![image](https://user-images.githubusercontent.com/119406841/204519925-f68aebc3-9a28-4dca-8d1f-d7fefe112b86.png) 
 ![image](https://user-images.githubusercontent.com/119406841/204520090-440c4b7e-ee00-479c-9a8d-d44de4e0ee2a.png)
 
+Git ima dobru kontrolu grananja. Mozemo da imamo puno lokalnih grana koje nisu medjusobno zavisne( promene na jednoj ne uticu na drugu granu). Te grane pored toga sto mogu da se prave I brisu mogu I da se spajaju. 
+
+•	git branch prikazuje sve postojace grane(kreira ili brise)
+
+git branch my2.6.14 v2.6.14
+
+•	git merge spaja istoriju navedene sa trenutnom granum
+
+git merge main grana-2
+
+•	git pull uzima I spaja promene sa trenutnog skladista sa navedenim granama
+
+origin next
+
+•	git push obavlja promene na glavnom skladistu pomocu promena na trenutnom
+
+origin master
 
 
 
