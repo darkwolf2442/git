@@ -10,8 +10,7 @@ Github je sajt koji koristi git kako bi omogucio da ljudi postavljaju projekte ,
 
 # Osnovne komande github-a
 
-•	Git add dodaje fajl u staging area
-
+•	Git add dodaje fajl u staging area 
 •	Git log omogucav pregled ranijih verzija projekta te grane
 
 •	Git init kreira novo git skladiste ili ponovo pokrece vec postojace
