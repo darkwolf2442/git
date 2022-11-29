@@ -47,3 +47,9 @@ git reset zadatak.cs
 git diff
 
 # Kreiranje , grananje, spajanje
+
+Da bi se kreirao novi projekat moramo kliknuti na new repository (ili ako zelimo da ucitamo vec postojeci kliknemo import repository), izabrati ime I opis projekta, odluciti da li ce biti private ili public. 
+
+
+
+
