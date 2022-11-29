@@ -34,7 +34,7 @@ git commit - m "first file"
 
 git status
 
-•	git revert vraca ofredjene promene iz proslosti
+•	git revert vraca odredjene promene iz proslosti
 
 git revert project~1
 
