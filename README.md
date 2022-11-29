@@ -70,7 +70,11 @@ origin next
 •	git push obavlja promene na glavnom skladistu pomocu promena na trenutnom
 
 origin master
+# SSH
 
+SSH (Secure Shell Protocol) je mrezni protokol za bezbedno upravljanje mreznim uslugama preko nezasticene mreze. možete da se povezete i potvrdite identitet sa udaljenim serverima i uslugama. Pomocu ssh kljuceva moze se povezati na github bez snabdevanja imena I licnih tokena prstupa. Najistaknutije usluge su prijavljivanje sa daljine I izvrsavanje sa komandne linije.
+
+![image](https://user-images.githubusercontent.com/119406841/204524730-d54014d8-fd36-43e1-a3a5-da1d14233449.png)
 
 
 
