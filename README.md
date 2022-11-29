@@ -78,7 +78,7 @@ SSH (Secure Shell Protocol) je mrezni protokol za bezbedno upravljanje mreznim u
 
 # Github hosting
 
-Svaki korisnik ima svoje stranice na kojima mogu da prave i postavljaju projekte kojima u zavisnosti da li su private ili public mogu drugi da pristupe
+Svaki korisnik ima svoje stranice na kojima mogu da prave i postavljaju projekte kojima u zavisnosti da li su private ili public mogu drugi korisnici da pristupe
 
 
 
